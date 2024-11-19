@@ -1,5 +1,7 @@
 # Tines_Crowdstrike
 source article: https://www.tines.com/blog/getting-connected-to-the-crowdstrike-api/
+
+
 When working with any API, some common initial considerations include:
 
 Documentation: Where can I find it, and how comprehensive is it?
